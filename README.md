@@ -1,10 +1,11 @@
 # GameLibrary
-*Version: Phase 002.4*
+*Version: Phase 002.4.1*
 
 ## Mobile
 
 | Price | Game Name | Links |
 | ----- | --------- | ----- |
+| Free | **Big Bang Evolution** | [Play](https://play.google.com/store/apps/details?id=com.azurgames.bomb)
 | Free | **Brawl Stars** | [Play](https://play.google.com/store/apps/details?id=com.supercell.brawlstars)
 | Free | **Cats and Soup** | [Play](https://play.google.com/store/apps/details?id=com.hidea.cat)
 | Free | **Clash of Clans** | [Play](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)
