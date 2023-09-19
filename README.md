@@ -1,5 +1,5 @@
 # GameLibrary
-*Version: Phase 002.1*
+*Version: Phase 002.2*
 
 | Price | Game Name | Links |
 | ----- | --------- | ----- |
@@ -20,5 +20,6 @@
 | Free | **Standoff 2** | [PlayStore](https://play.google.com/store/apps/details?id=com.axlebolt.standoff2)
 | Free | **Subway Surfers** | [PlayStore](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 | Free | **Tiles Hop** | [PlayStore](https://play.google.com/store/apps/details?id=com.amanotes.beathopper)
+| Free | **Tomb of the Mask** | [PlayStore](https://play.google.com/store/apps/details?id=com.playgendary.tom)
 | Free | **Traffic Racer** | [PlayStore](https://play.google.com/store/apps/details?id=com.skgames.trafficracer)
 | Free | **Traffic Rider** | [PlayStore](https://play.google.com/store/apps/details?id=com.skgames.trafficrider)
