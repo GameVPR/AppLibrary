@@ -1,5 +1,5 @@
 # GameLibrary
-*Version: Phase 1.5.2.3*
+*Version: Phase 1.5.2.5*
 
 ## Mobile
 
@@ -10,6 +10,10 @@
 | Free | **Cats and Soup** | [Play](https://play.google.com/store/apps/details?id=com.hidea.cat)
 | Free | **Clash of Clans** | [Play](https://play.google.com/store/apps/details?id=com.supercell.clashofclans)
 | Free | **Clash Royale** | [Play](https://play.google.com/store/apps/details?id=com.supercell.clashroyale)
+| Free | **Defuse the Bomb 3D** | [Play](https://play.google.com/store/apps/details?id=com.izyplay.defusethebomb)
+| Free | **Dr. Driving** | [Play](https://play.google.com/store/apps/details?id=com.ansangha.drdriving)
+| Free | **Dr. Driving 2** | [Play](https://play.google.com/store/apps/details?id=com.ansangha.drjb)
+| Free | **Dr. Parking 4** | [Play](https://play.google.com/store/apps/details?id=com.ansangha.drparking4)
 | Free | **Dunk Hoop** | [Play](https://play.google.com/store/apps/details?id=com.ketchapp.dunkhoop)
 | Free | **Dunk Shot** | [Play](https://play.google.com/store/apps/details?id=com.ketchapp.dunkshot)
 | Free | **eFootball 2024** | [Play](https://play.google.com/store/apps/details?id=jp.konami.pesam)
@@ -29,6 +33,7 @@
 | Free | **Run Arround** | [Play](https://play.google.com/store/apps/details?id=com.crazylabs.run.arena)
 | Free | **Skillful Finger** | [Play](https://play.google.com/store/apps/details?id=air.com.Yoypo.SkillFinger)
 | Free | **Smash Hit** | [Play](https://play.google.com/store/apps/details?id=com.mediocre.smashhit)
+| Free | **Stack** | [Play](https://play.google.com/store/apps/details?id=com.ketchapp.stack)
 | Free | **Standoff 2** | [Play](https://play.google.com/store/apps/details?id=com.axlebolt.standoff2)
 | Free | **Subway Surfers** | [Play](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 | Free | **Tiles Hop** | [Play](https://play.google.com/store/apps/details?id=com.amanotes.beathopper)
