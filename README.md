@@ -1,5 +1,5 @@
 # GameLibrary
-*Version: Phase 1.5.2.2*
+*Version: Phase 1.5.2.3*
 
 ## Mobile
 
@@ -27,6 +27,8 @@
 | Free | **PUBG Mobile** | [Play](https://play.google.com/store/apps/details?id=com.tencent.ig)
 | Free | **Roblox** | [Play](https://play.google.com/store/apps/details?id=com.roblox.client)
 | Free | **Run Arround** | [Play](https://play.google.com/store/apps/details?id=com.crazylabs.run.arena)
+| Free | **Skillful Finger** | [Play](https://play.google.com/store/apps/details?id=air.com.Yoypo.SkillFinger)
+| Free | **Smash Hit** | [Play](https://play.google.com/store/apps/details?id=com.mediocre.smashhit)
 | Free | **Standoff 2** | [Play](https://play.google.com/store/apps/details?id=com.axlebolt.standoff2)
 | Free | **Subway Surfers** | [Play](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 | Free | **Tiles Hop** | [Play](https://play.google.com/store/apps/details?id=com.amanotes.beathopper)
