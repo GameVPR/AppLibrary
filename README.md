@@ -1,5 +1,5 @@
 # GameLibrary
-*Version: Phase 1.5.2.5*
+*Version: Phase 1.5.2.6*
 
 ## Mobile
 
@@ -25,6 +25,7 @@
 | Free | **Idle Miner Tycoon** | [Play](https://play.google.com/store/apps/details?id=com.fluffyfairygames.idleminertycoon)
 | Free | **Iron Marines** | [Play](https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines)
 | Free | **Make More!** | [Play](https://play.google.com/store/apps/details?id=com.fingersoft.makemore)
+| Free | **My Talking Tom 2** | [Play](https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2)
 | Free | **PAC-MAN 256** | [Play](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)
 | Free | **Plague Inc.** | [Play](https://play.google.com/store/apps/details?id=com.miniclip.plagueinc)
 | Free | **Plants vs Zombies** | [Play](https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row)
