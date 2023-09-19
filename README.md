@@ -1,5 +1,5 @@
 # GameLibrary
-*Version: Phase 1.5.2.1*
+*Version: Phase 1.5.2.2*
 
 ## Mobile
 
@@ -22,6 +22,7 @@
 | Free | **Iron Marines** | [Play](https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines)
 | Free | **Make More!** | [Play](https://play.google.com/store/apps/details?id=com.fingersoft.makemore)
 | Free | **PAC-MAN 256** | [Play](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)
+| Free | **Plague Inc.** | [Play](https://play.google.com/store/apps/details?id=com.miniclip.plagueinc)
 | Free | **Plants vs Zombies** | [Play](https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row)
 | Free | **PUBG Mobile** | [Play](https://play.google.com/store/apps/details?id=com.tencent.ig)
 | Free | **Roblox** | [Play](https://play.google.com/store/apps/details?id=com.roblox.client)
@@ -32,3 +33,5 @@
 | Free | **Tomb of the Mask** | [Play](https://play.google.com/store/apps/details?id=com.playgendary.tom)
 | Free | **Traffic Racer** | [Play](https://play.google.com/store/apps/details?id=com.skgames.trafficracer)
 | Free | **Traffic Rider** | [Play](https://play.google.com/store/apps/details?id=com.skgames.trafficrider)
+| Free | **Upload Simulator** | [Play](https://play.google.com/store/apps/details?id=org.godotengine.downloadsimulator2)
+| Free | **Video Game Tycoon** | [Play](https://play.google.com/store/apps/details?id=com.holycowstudio.gamedevtycoon)
